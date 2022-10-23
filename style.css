@@ -355,7 +355,7 @@ footer{
         margin-top: -17px;
         display: block;
         color: white;
-        font-size: 50px;
+        font-size: 30px;
     }
     nav{
         width: 100%;
@@ -364,11 +364,11 @@ footer{
         position: relative;
         top:50px;
         left: -200px;
-        font-size: 70px;
+        font-size: 30px;
     }
     header .topnav.responsive{
         height: 340px;
-        font-size: 70px;
+        font-size: 30px;
     }
     .topnav.responsive a.icon{
         position: absolute;
